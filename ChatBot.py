@@ -23,7 +23,7 @@ def inline_menu():
         text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{CHANNEL}"
     )
     menu = types.InlineKeyboardMarkup()
-    menu.add(azirul, channel, group, callback)
+    menu.add(kenkan, channel, group, callback)
 
     return menu
 
