@@ -12,7 +12,7 @@ m_is_not_user_name = "❌ Maaf, kamu harus mengisi Username profil kamu"
 
 m_good_bye = "❌ Kamu stop percakapannya"
 
-m_disconnect_user = "Yah.. dia nge stop kamu :("
+m_disconnect_user = "❌ Yah.. dia nge stop kamu :("
 
 m_failed = "❌ Terjadi kesalahan!"
 
