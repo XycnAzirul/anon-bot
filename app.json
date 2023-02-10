@@ -10,15 +10,15 @@
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "kang_culiknew"
+      "value": "azirulfariq"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "vvslh_pro"
+      "value": "temanbercakapofficialbot"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "vvslh_pro"
+      "value": "azirul_fariq"
     }
   }
 }
