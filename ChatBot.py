@@ -15,7 +15,7 @@ def inline_menu():
     :return: InlineKeyboardMarkup
     """
     callback = types.InlineKeyboardButton(
-        text="\U00002709 New chat", callback_data="NewChat"
+        text="\U00002709 Mulai", callback_data="NewChat"
     )
     kenkan = types.InlineKeyboardButton(text="Azirul", url=f"t.me/{OWNER}")
     group = types.InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP}")
