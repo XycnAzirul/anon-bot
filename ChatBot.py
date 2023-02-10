@@ -15,7 +15,7 @@ def inline_menu():
     :return: InlineKeyboardMarkup
     """
     callback = types.InlineKeyboardButton(
-        text="Mulai", callback_data="NewChat"
+        text="\U00002709 New chat", callback_data="NewChat"
     )
     kenkan = types.InlineKeyboardButton(text="Azirul", url=f"t.me/{OWNER}")
     group = types.InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP}")
@@ -27,6 +27,16 @@ def inline_menu():
 
     return menu
 
+
+def generate_markup():
+    """
+    Create menu with two buttons: 'Like' and 'Dislike'
+    :return: ReplyKeyboardMarkup
+    """
+    markup = types.ReplyKeyboardMarkup(one_time_keyboard=False, resize_keyboard=True)
+    markup.add(like_str)
+    markup.add(dislike_str)
+    return markup
 
 
 def connect_user(user_id):
