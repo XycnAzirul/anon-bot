@@ -28,16 +28,6 @@ def inline_menu():
     return menu
 
 
-def generate_markup():
-    """
-    Create menu with two buttons: 'Like' and 'Dislike'
-    :return: ReplyKeyboardMarkup
-    """
-    markup = types.ReplyKeyboardMarkup(one_time_keyboard=False, resize_keyboard=True)
-    markup.add(like_str)
-    markup.add(dislike_str)
-    return markup
-
 
 def connect_user(user_id):
     """
