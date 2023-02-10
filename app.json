@@ -6,7 +6,7 @@
   "env": {
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": ""
+      "value": "5732024613:AAHY922K1MgU9PISoM8URVtLk8sFtI0hFmU"
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
