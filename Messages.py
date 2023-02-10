@@ -1,4 +1,4 @@
-m_start = "Hai, selamat datang di Official Indonesia Chat\n\nSemoga Dapat teman atau jodoh\n\nkalau ada yang aneh-aneh lapor ke Azirul ya!\n\nTekan MULAI untuk memulai obrolannya:)\n\-Bot oleh @azirul_fariq"
+m_start = "Hai, selamat datang di Official Indonesia Chat\n\nSemoga Dapat teman atau jodoh\n\nkalau ada yang aneh-aneh lapor ke Azirul ya!\n\nTekan MULAI untuk memulai obrolannya:)\n\n-Bot oleh @azirul_fariq"
 
 m_is_not_free_users = (
     "Maaf Anda tidak berada dalam obrolan\n\nTekan MULAI untuk memulai obrolan"
