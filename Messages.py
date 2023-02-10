@@ -28,9 +28,9 @@ m_send_some_messages = "❌ Gaboleh forward pesan dari bot lainnya!"
 
 m_has_not_dialog = "❌ Kamu lagi tidak ada di obrolan"
 
-dislike_str = "⛔️ Stop percakapan"    
+dislike_str = ""    
 
-like_str = "📠 Kirim Kontak"
+like_str = ""
 
 
 def m_all_like(x):
