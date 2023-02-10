@@ -64,7 +64,7 @@ def echo(message):
     if message.chat.username is None:
         bot.send_message(user_id, m_is_not_user_name)
         return
-
+    
     menu = inline_menu()
 
     bot.send_message(user_id, m_start, reply_markup=menu)
